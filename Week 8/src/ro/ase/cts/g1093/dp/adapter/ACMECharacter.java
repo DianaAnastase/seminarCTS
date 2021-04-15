@@ -25,5 +25,7 @@ public abstract class ACMECharacter {
 	public abstract void move();
 	public abstract void takeAHit(int points);
 	public abstract void heal(int points);
+	
+	
 
 }
